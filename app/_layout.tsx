@@ -11,3 +11,6 @@ export default function RootLayout() {
     />
   </QueryClientProvider>;
 }
+
+// Comment lire un fichier .env dans un projet Expo
+// https://docs.expo.dev/guides/environment-variables/#reading-env-files
